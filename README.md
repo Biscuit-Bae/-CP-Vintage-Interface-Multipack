@@ -1,4 +1,6 @@
-＊ Installation ＊
+
+
+## ＊ Installation ＊
 
 1. You need the latest version of SMAPI﻿ and Content Patcher﻿. Please download and install them first, then move on to the next step!
 
@@ -6,10 +8,11 @@
 
 
 
-＊ Flower dig spots! ＊
+## ＊ Flower dig spots! ＊
 
 ManaKirel made these cute little dig spot replacements and added them to the interface mod! ♥
-Digspots are red flowers by default, but many other colors are included. Set them to 'disabled' if you prefer the vanilla version or another digspot replacer. 
+
+Digspots are pink flowers by default, but many other colors are included. Set them to 'disabled' if you prefer the vanilla version or another digspot replacer. 
 
 
 There are more config options to help increase compatibility with other mods.
